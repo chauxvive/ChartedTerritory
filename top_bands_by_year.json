@@ -1,0 +1,531 @@
+{
+    "Michael Jackson": [
+        {
+            "artist": "1982"
+        },
+        {
+            "artist": "1987"
+        },
+        {
+            "artist": "1991"
+        },
+        {
+            "artist": "1995"
+        },
+        {
+            "artist": "1979"
+        }
+    ],
+    "AC/DC": [
+        {
+            "artist": "1980"
+        }
+    ],
+    "Whitney Houston / various artists": [
+        {
+            "artist": "1992"
+        }
+    ],
+    "Pink Floyd": [
+        {
+            "artist": "1973"
+        },
+        {
+            "artist": "1979"
+        },
+        {
+            "artist": "1975"
+        }
+    ],
+    "Eagles": [
+        {
+            "artist": "1976"
+        },
+        {
+            "artist": "1976"
+        }
+    ],
+    "Shania Twain": [
+        {
+            "artist": "1997"
+        },
+        {
+            "artist": "1995"
+        }
+    ],
+    "Fleetwood Mac": [
+        {
+            "artist": "1977"
+        }
+    ],
+    "Meat Loaf": [
+        {
+            "artist": "1977"
+        }
+    ],
+    "Bee Gees / Various artists": [
+        {
+            "artist": "1977"
+        }
+    ],
+    "Led Zeppelin": [
+        {
+            "artist": "1971"
+        }
+    ],
+    "Alanis Morissette": [
+        {
+            "artist": "1995"
+        }
+    ],
+    "Various artists": [
+        {
+            "artist": "1987"
+        },
+        {
+            "artist": "1978"
+        }
+    ],
+    "Celine Dion": [
+        {
+            "artist": "1996"
+        },
+        {
+            "artist": "1997"
+        },
+        {
+            "artist": "1999"
+        },
+        {
+            "artist": "1993"
+        }
+    ],
+    "Adele": [
+        {
+            "artist": "2011"
+        },
+        {
+            "artist": "2015"
+        }
+    ],
+    "The Beatles": [
+        {
+            "artist": "2000"
+        },
+        {
+            "artist": "1967"
+        },
+        {
+            "artist": "1969"
+        }
+    ],
+    "Metallica": [
+        {
+            "artist": "1991"
+        }
+    ],
+    "Bob Marley and the Wailers": [
+        {
+            "artist": "1984"
+        }
+    ],
+    "Guns N' Roses": [
+        {
+            "artist": "1987"
+        }
+    ],
+    "Bruce Springsteen": [
+        {
+            "artist": "1984"
+        }
+    ],
+    "ABBA": [
+        {
+            "artist": "1992"
+        }
+    ],
+    "Dire Straits": [
+        {
+            "artist": "1985"
+        }
+    ],
+    "Madonna": [
+        {
+            "artist": "1990"
+        },
+        {
+            "artist": "1986"
+        },
+        {
+            "artist": "1984"
+        }
+    ],
+    "Santana": [
+        {
+            "artist": "1999"
+        }
+    ],
+    "Norah Jones": [
+        {
+            "artist": "2002"
+        }
+    ],
+    "Mariah Carey": [
+        {
+            "artist": "1993"
+        },
+        {
+            "artist": "1995"
+        }
+    ],
+    "Eminem": [
+        {
+            "artist": "2002"
+        },
+        {
+            "artist": "2000"
+        }
+    ],
+    "James Horner": [
+        {
+            "artist": "1997"
+        }
+    ],
+    "Nirvana": [
+        {
+            "artist": "1991"
+        }
+    ],
+    "Eric Clapton": [
+        {
+            "artist": "1992"
+        }
+    ],
+    "Queen": [
+        {
+            "artist": "1981"
+        }
+    ],
+    "Britney Spears": [
+        {
+            "artist": "1999"
+        },
+        {
+            "artist": "2000"
+        }
+    ],
+    "Bon Jovi": [
+        {
+            "artist": "1986"
+        },
+        {
+            "artist": "1994"
+        }
+    ],
+    "Journey": [
+        {
+            "artist": "1988"
+        }
+    ],
+    "Whitney Houston": [
+        {
+            "artist": "1985"
+        },
+        {
+            "artist": "1987"
+        }
+    ],
+    "Phil Collins": [
+        {
+            "artist": "1985"
+        }
+    ],
+    "Linkin Park": [
+        {
+            "artist": "2000"
+        }
+    ],
+    "U2": [
+        {
+            "artist": "1987"
+        }
+    ],
+    "Prince and The Revolution": [
+        {
+            "artist": "1984"
+        }
+    ],
+    "Carole King": [
+        {
+            "artist": "1971"
+        }
+    ],
+    "George Michael": [
+        {
+            "artist": "1987"
+        }
+    ],
+    "Simon & Garfunkel": [
+        {
+            "artist": "1970"
+        }
+    ],
+    "Elton John": [
+        {
+            "artist": "1974"
+        }
+    ],
+    "Backstreet Boys": [
+        {
+            "artist": "1999"
+        }
+    ],
+    "Spice Girls": [
+        {
+            "artist": "1996"
+        }
+    ],
+    "Ace of Base": [
+        {
+            "artist": "1993"
+        }
+    ],
+    "Green Day": [
+        {
+            "artist": "2004"
+        },
+        {
+            "artist": "1994"
+        }
+    ],
+    "Oasis": [
+        {
+            "artist": "1995"
+        }
+    ],
+    "Hootie & the Blowfish": [
+        {
+            "artist": "1994"
+        }
+    ],
+    "Elvis Presley": [
+        {
+            "artist": "1957"
+        }
+    ],
+    "Boston": [
+        {
+            "artist": "1976"
+        }
+    ],
+    "Def Leppard": [
+        {
+            "artist": "1987"
+        }
+    ],
+    "Lauryn Hill": [
+        {
+            "artist": "1998"
+        }
+    ],
+    "Tracy Chapman": [
+        {
+            "artist": "1988"
+        }
+    ],
+    "Lionel Richie": [
+        {
+            "artist": "1983"
+        }
+    ],
+    "Andrea Bocelli": [
+        {
+            "artist": "1997"
+        }
+    ],
+    "Amy Winehouse": [
+        {
+            "artist": "2006"
+        }
+    ],
+    "1945": [
+        {
+            "artist": "Oklahoma! (78\u00a0rpm album)"
+        }
+    ],
+    "After 1946": [
+        {
+            "artist": "The Jolson Story"
+        }
+    ],
+    "1956": [
+        {
+            "artist": "Oklahoma! (LP album)"
+        }
+    ],
+    "1956/1957": [
+        {
+            "artist": "My Fair Lady"
+        }
+    ],
+    "1960": [
+        {
+            "artist": "South Pacific"
+        }
+    ],
+    "1963": [
+        {
+            "artist": "The First Family"
+        }
+    ],
+    "1968": [
+        {
+            "artist": "The Sound of Music"
+        }
+    ],
+    "1969": [
+        {
+            "artist": "In-A-Gadda-Da-Vida"
+        }
+    ],
+    "1973": [
+        {
+            "artist": "Tapestry"
+        }
+    ],
+    "1975/1976": [
+        {
+            "artist": "The Sound of Music"
+        }
+    ],
+    "1976": [
+        {
+            "artist": "Tapestry"
+        }
+    ],
+    "1979": [
+        {
+            "artist": "Saturday Night Fever"
+        }
+    ],
+    "1984": [
+        {
+            "artist": "Thriller"
+        }
+    ],
+    "2001": [
+        {
+            "artist": "Linkin Park"
+        }
+    ],
+    "2002": [
+        {
+            "artist": "Eminem"
+        }
+    ],
+    "2003": [
+        {
+            "artist": "Norah Jones"
+        }
+    ],
+    "2004": [
+        {
+            "artist": "Usher"
+        }
+    ],
+    "2005": [
+        {
+            "artist": "Coldplay"
+        }
+    ],
+    "2006": [
+        {
+            "artist": "Various Artists"
+        }
+    ],
+    "2007": [
+        {
+            "artist": "6.0"
+        }
+    ],
+    "2008": [
+        {
+            "artist": "Coldplay"
+        }
+    ],
+    "2009": [
+        {
+            "artist": "Susan Boyle"
+        }
+    ],
+    "2010": [
+        {
+            "artist": "Eminem"
+        }
+    ],
+    "2011": [
+        {
+            "artist": "Adele"
+        }
+    ],
+    "2012": [
+        {
+            "artist": "[249]"
+        }
+    ],
+    "2013": [
+        {
+            "artist": "One Direction"
+        }
+    ],
+    "2014": [
+        {
+            "artist": "Various Artists"
+        }
+    ],
+    "2015": [
+        {
+            "artist": "Adele"
+        }
+    ],
+    "2016": [
+        {
+            "artist": "Beyonc\u00e9"
+        }
+    ],
+    "2017": [
+        {
+            "artist": "Ed Sheeran"
+        }
+    ],
+    "2018": [
+        {
+            "artist": "Hugh Jackman & Various Artists"
+        }
+    ],
+    "2019": [
+        {
+            "artist": "Arashi"
+        }
+    ],
+    "2020": [
+        {
+            "artist": "BTS"
+        }
+    ],
+    "2021": [
+        {
+            "artist": "Adele"
+        }
+    ],
+    "2022": [
+        {
+            "artist": "Jay Chou"
+        }
+    ],
+    "2023": [
+        {
+            "artist": "Seventeen"
+        }
+    ]
+}

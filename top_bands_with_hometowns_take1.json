@@ -1,0 +1,646 @@
+{
+    "Michael Jackson": [
+        {
+            "artist": "1982",
+            "hometown": "United States"
+        },
+        {
+            "artist": "1987",
+            "hometown": "Stockholm"
+        },
+        {
+            "artist": "1991",
+            "hometown": "United Kingdom"
+        },
+        {
+            "artist": "1995",
+            "hometown": "France"
+        },
+        {
+            "artist": "1979",
+            "hometown": "Leipzig"
+        }
+    ],
+    "AC/DC": [
+        {
+            "artist": "1980",
+            "hometown": "France"
+        }
+    ],
+    "Whitney Houston / various artists": [
+        {
+            "artist": "1992",
+            "hometown": "Unknown"
+        }
+    ],
+    "Pink Floyd": [
+        {
+            "artist": "1973",
+            "hometown": "France"
+        },
+        {
+            "artist": "1979",
+            "hometown": "Leipzig"
+        },
+        {
+            "artist": "1975",
+            "hometown": "United Kingdom"
+        }
+    ],
+    "Eagles": [
+        {
+            "artist": "1976",
+            "hometown": "Taiwan"
+        },
+        {
+            "artist": "1976",
+            "hometown": "Taiwan"
+        }
+    ],
+    "Shania Twain": [
+        {
+            "artist": "1997",
+            "hometown": "United States"
+        },
+        {
+            "artist": "1995",
+            "hometown": "France"
+        }
+    ],
+    "Fleetwood Mac": [
+        {
+            "artist": "1977",
+            "hometown": "Canada"
+        }
+    ],
+    "Meat Loaf": [
+        {
+            "artist": "1977",
+            "hometown": "Canada"
+        }
+    ],
+    "Bee Gees / Various artists": [
+        {
+            "artist": "1977",
+            "hometown": "Canada"
+        }
+    ],
+    "Led Zeppelin": [
+        {
+            "artist": "1971",
+            "hometown": "Unknown"
+        }
+    ],
+    "Alanis Morissette": [
+        {
+            "artist": "1995",
+            "hometown": "France"
+        }
+    ],
+    "Various artists": [
+        {
+            "artist": "1987",
+            "hometown": "Stockholm"
+        },
+        {
+            "artist": "1978",
+            "hometown": "Unknown"
+        }
+    ],
+    "Celine Dion": [
+        {
+            "artist": "1996",
+            "hometown": "Unknown"
+        },
+        {
+            "artist": "1997",
+            "hometown": "United States"
+        },
+        {
+            "artist": "1999",
+            "hometown": "Sweden"
+        },
+        {
+            "artist": "1993",
+            "hometown": "Ottawa"
+        }
+    ],
+    "Adele": [
+        {
+            "artist": "2011",
+            "hometown": "Belgium"
+        },
+        {
+            "artist": "2015",
+            "hometown": "Estonia"
+        }
+    ],
+    "The Beatles": [
+        {
+            "artist": "2000",
+            "hometown": "Unknown"
+        },
+        {
+            "artist": "1967",
+            "hometown": "United States"
+        },
+        {
+            "artist": "1969",
+            "hometown": "Unknown"
+        }
+    ],
+    "Metallica": [
+        {
+            "artist": "1991",
+            "hometown": "United Kingdom"
+        }
+    ],
+    "Bob Marley and the Wailers": [
+        {
+            "artist": "1984",
+            "hometown": "Poland"
+        }
+    ],
+    "Guns N' Roses": [
+        {
+            "artist": "1987",
+            "hometown": "Stockholm"
+        }
+    ],
+    "Bruce Springsteen": [
+        {
+            "artist": "1984",
+            "hometown": "Poland"
+        }
+    ],
+    "ABBA": [
+        {
+            "artist": "1992",
+            "hometown": "Unknown"
+        }
+    ],
+    "Dire Straits": [
+        {
+            "artist": "1985",
+            "hometown": "Unknown"
+        }
+    ],
+    "Madonna": [
+        {
+            "artist": "1990",
+            "hometown": "United States"
+        },
+        {
+            "artist": "1986",
+            "hometown": "United States"
+        },
+        {
+            "artist": "1984",
+            "hometown": "Poland"
+        }
+    ],
+    "Santana": [
+        {
+            "artist": "1999",
+            "hometown": "Sweden"
+        }
+    ],
+    "Norah Jones": [
+        {
+            "artist": "2002",
+            "hometown": "United States"
+        }
+    ],
+    "Mariah Carey": [
+        {
+            "artist": "1993",
+            "hometown": "Ottawa"
+        },
+        {
+            "artist": "1995",
+            "hometown": "France"
+        }
+    ],
+    "Eminem": [
+        {
+            "artist": "2002",
+            "hometown": "United States"
+        },
+        {
+            "artist": "2000",
+            "hometown": "Unknown"
+        }
+    ],
+    "James Horner": [
+        {
+            "artist": "1997",
+            "hometown": "United States"
+        }
+    ],
+    "Nirvana": [
+        {
+            "artist": "1991",
+            "hometown": "United Kingdom"
+        }
+    ],
+    "Eric Clapton": [
+        {
+            "artist": "1992",
+            "hometown": "Unknown"
+        }
+    ],
+    "Queen": [
+        {
+            "artist": "1981",
+            "hometown": "Finland"
+        }
+    ],
+    "Britney Spears": [
+        {
+            "artist": "1999",
+            "hometown": "Sweden"
+        },
+        {
+            "artist": "2000",
+            "hometown": "Unknown"
+        }
+    ],
+    "Bon Jovi": [
+        {
+            "artist": "1986",
+            "hometown": "United States"
+        },
+        {
+            "artist": "1994",
+            "hometown": "United States"
+        }
+    ],
+    "Journey": [
+        {
+            "artist": "1988",
+            "hometown": "Unknown"
+        }
+    ],
+    "Whitney Houston": [
+        {
+            "artist": "1985",
+            "hometown": "Unknown"
+        },
+        {
+            "artist": "1987",
+            "hometown": "Stockholm"
+        }
+    ],
+    "Phil Collins": [
+        {
+            "artist": "1985",
+            "hometown": "Unknown"
+        }
+    ],
+    "Linkin Park": [
+        {
+            "artist": "2000",
+            "hometown": "Unknown"
+        }
+    ],
+    "U2": [
+        {
+            "artist": "1987",
+            "hometown": "Stockholm"
+        }
+    ],
+    "Prince and The Revolution": [
+        {
+            "artist": "1984",
+            "hometown": "Poland"
+        }
+    ],
+    "Carole King": [
+        {
+            "artist": "1971",
+            "hometown": "Unknown"
+        }
+    ],
+    "George Michael": [
+        {
+            "artist": "1987",
+            "hometown": "Stockholm"
+        }
+    ],
+    "Simon & Garfunkel": [
+        {
+            "artist": "1970",
+            "hometown": "Argentina"
+        }
+    ],
+    "Elton John": [
+        {
+            "artist": "1974",
+            "hometown": "United States"
+        }
+    ],
+    "Backstreet Boys": [
+        {
+            "artist": "1999",
+            "hometown": "Sweden"
+        }
+    ],
+    "Spice Girls": [
+        {
+            "artist": "1996",
+            "hometown": "Unknown"
+        }
+    ],
+    "Ace of Base": [
+        {
+            "artist": "1993",
+            "hometown": "Ottawa"
+        }
+    ],
+    "Green Day": [
+        {
+            "artist": "2004",
+            "hometown": "Los Angeles"
+        },
+        {
+            "artist": "1994",
+            "hometown": "United States"
+        }
+    ],
+    "Oasis": [
+        {
+            "artist": "1995",
+            "hometown": "France"
+        }
+    ],
+    "Hootie & the Blowfish": [
+        {
+            "artist": "1994",
+            "hometown": "United States"
+        }
+    ],
+    "Elvis Presley": [
+        {
+            "artist": "1957",
+            "hometown": "Unknown"
+        }
+    ],
+    "Boston": [
+        {
+            "artist": "1976",
+            "hometown": "Taiwan"
+        }
+    ],
+    "Def Leppard": [
+        {
+            "artist": "1987",
+            "hometown": "Stockholm"
+        }
+    ],
+    "Lauryn Hill": [
+        {
+            "artist": "1998",
+            "hometown": "Unknown"
+        }
+    ],
+    "Tracy Chapman": [
+        {
+            "artist": "1988",
+            "hometown": "Unknown"
+        }
+    ],
+    "Lionel Richie": [
+        {
+            "artist": "1983",
+            "hometown": "S\u00e3o Paulo"
+        }
+    ],
+    "Andrea Bocelli": [
+        {
+            "artist": "1997",
+            "hometown": "United States"
+        }
+    ],
+    "Amy Winehouse": [
+        {
+            "artist": "2006",
+            "hometown": "Unknown"
+        }
+    ],
+    "1945": [
+        {
+            "artist": "Oklahoma! (78\u00a0rpm album)",
+            "hometown": "San Jose"
+        }
+    ],
+    "After 1946": [
+        {
+            "artist": "The Jolson Story",
+            "hometown": "United Kingdom"
+        }
+    ],
+    "1956": [
+        {
+            "artist": "Oklahoma! (LP album)",
+            "hometown": "Los Angeles"
+        }
+    ],
+    "1956/1957": [
+        {
+            "artist": "My Fair Lady",
+            "hometown": "Brazil"
+        }
+    ],
+    "1960": [
+        {
+            "artist": "South Pacific",
+            "hometown": "Canada"
+        }
+    ],
+    "1963": [
+        {
+            "artist": "The First Family",
+            "hometown": "Unknown"
+        }
+    ],
+    "1968": [
+        {
+            "artist": "The Sound of Music",
+            "hometown": "Stockholm"
+        }
+    ],
+    "1969": [
+        {
+            "artist": "In-A-Gadda-Da-Vida",
+            "hometown": "United States"
+        }
+    ],
+    "1973": [
+        {
+            "artist": "Tapestry",
+            "hometown": "Portland"
+        }
+    ],
+    "1975/1976": [
+        {
+            "artist": "The Sound of Music",
+            "hometown": "Stockholm"
+        }
+    ],
+    "1976": [
+        {
+            "artist": "Tapestry",
+            "hometown": "Portland"
+        }
+    ],
+    "1979": [
+        {
+            "artist": "Saturday Night Fever",
+            "hometown": "Denmark"
+        }
+    ],
+    "1984": [
+        {
+            "artist": "Thriller",
+            "hometown": "Los Angeles"
+        }
+    ],
+    "2001": [
+        {
+            "artist": "Linkin Park",
+            "hometown": "United States"
+        }
+    ],
+    "2002": [
+        {
+            "artist": "Eminem",
+            "hometown": "United States"
+        }
+    ],
+    "2003": [
+        {
+            "artist": "Norah Jones",
+            "hometown": "United States"
+        }
+    ],
+    "2004": [
+        {
+            "artist": "Usher",
+            "hometown": "United States"
+        }
+    ],
+    "2005": [
+        {
+            "artist": "Coldplay",
+            "hometown": "United Kingdom"
+        }
+    ],
+    "2006": [
+        {
+            "artist": "Various Artists",
+            "hometown": "Unknown"
+        }
+    ],
+    "2007": [
+        {
+            "artist": "6.0",
+            "hometown": "Unknown"
+        }
+    ],
+    "2008": [
+        {
+            "artist": "Coldplay",
+            "hometown": "United Kingdom"
+        }
+    ],
+    "2009": [
+        {
+            "artist": "Susan Boyle",
+            "hometown": "United Kingdom"
+        }
+    ],
+    "2010": [
+        {
+            "artist": "Eminem",
+            "hometown": "United States"
+        }
+    ],
+    "2011": [
+        {
+            "artist": "Adele",
+            "hometown": "United Kingdom"
+        }
+    ],
+    "2012": [
+        {
+            "artist": "[249]",
+            "hometown": "Unknown"
+        }
+    ],
+    "2013": [
+        {
+            "artist": "One Direction",
+            "hometown": "England"
+        }
+    ],
+    "2014": [
+        {
+            "artist": "Various Artists",
+            "hometown": "Unknown"
+        }
+    ],
+    "2015": [
+        {
+            "artist": "Adele",
+            "hometown": "United Kingdom"
+        }
+    ],
+    "2016": [
+        {
+            "artist": "Beyonc\u00e9",
+            "hometown": "United States"
+        }
+    ],
+    "2017": [
+        {
+            "artist": "Ed Sheeran",
+            "hometown": "United Kingdom"
+        }
+    ],
+    "2018": [
+        {
+            "artist": "Hugh Jackman & Various Artists",
+            "hometown": "Unknown"
+        }
+    ],
+    "2019": [
+        {
+            "artist": "Arashi",
+            "hometown": "United States"
+        }
+    ],
+    "2020": [
+        {
+            "artist": "BTS",
+            "hometown": "South Korea"
+        }
+    ],
+    "2021": [
+        {
+            "artist": "Adele",
+            "hometown": "United Kingdom"
+        }
+    ],
+    "2022": [
+        {
+            "artist": "Jay Chou",
+            "hometown": "United States"
+        }
+    ],
+    "2023": [
+        {
+            "artist": "Seventeen",
+            "hometown": "South Korea"
+        }
+    ]
+}
